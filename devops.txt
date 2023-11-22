@@ -1,2 +1,2 @@
 devops contain many tools
-created two new branches from main branch
+created two new branches from main branch called prod and qa
