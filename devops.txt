@@ -1,2 +1,3 @@
 devops contain many tools
 created two new branches from main branch called prod and qa
+git classes are comlpeted and next classes on ansible
